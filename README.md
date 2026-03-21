@@ -78,8 +78,13 @@ Interactive dashboard:
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ravi-kumar-07sk/">Linkedin</a
-  <a href="mailto:kravi822875@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/ravi-kumar-07sk/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kravi822875@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
 </p>
 
 ---
