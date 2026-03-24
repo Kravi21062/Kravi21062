@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Ravi Kumar</h1>
-<h3 align="center">Data Analyst | Python Developer | AI Explorer</h3>
+<h3 align="center">Data Analyst | AI Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Turning+Data+into+Insights;Building+Real+World+Projects;Learning+AI+%26+ML;Future+Data+Scientist" />
