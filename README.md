@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,js" />
@@ -32,7 +32,7 @@
 
 ## Featured Projects
 
-### 🔹 AI Data Cleaning Web App
+### AI Data Cleaning Web App
 Smart dataset cleaning tool with:
 - Upload CSV / Excel  
 - Missing value detection  
@@ -41,7 +41,7 @@ Smart dataset cleaning tool with:
 
 ---
 
-### 🔹 Titanic Data Analysis
+### Titanic Data Analysis
 Performed deep EDA:
 - Survival analysis  
 - Age distribution  
@@ -49,7 +49,7 @@ Performed deep EDA:
 
 ---
 
-### 🔹 Power BI Dashboard
+### Power BI Dashboard
 Interactive dashboard:
 - KPI cards  
 - Dax
