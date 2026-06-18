@@ -82,8 +82,8 @@ Interactive dashboard:
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:kravi822875@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  <a href="https://pin.it/49fk7no0d">
+    <img src="https://skillicons.dev/icons?i=pinterest" height="50"/>
   </a>
 </p>
 
